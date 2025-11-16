@@ -1,4 +1,4 @@
-# Sense-the-Code
+# PrismCode AI
 understands your code and it is powered by Gemini
 
 

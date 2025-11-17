@@ -18,7 +18,7 @@ It’s your personal AI code analyst, designed for speed, clarity, and developer
 - 🧭 **Recent Questions History** — Sidebar recall with clear option  
 - 💡 **Smart Header + Logo** — Animated gradient and brand identity  
 - ⚡ **Glowing Footer** — Signature with social icons and gradient animation  
-
+   
 ---
 
 ## 🧠 Example Insights
